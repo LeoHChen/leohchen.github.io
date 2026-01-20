@@ -1,7 +1,7 @@
 {
   "name": "leoblog",
   "version": "1.0.0",
-  "description": "Leo Personal Blog",
+  "description": "LeoChen's Personal Blog",
   "type": "module",
   "scripts": {
     "dev": "astro dev",

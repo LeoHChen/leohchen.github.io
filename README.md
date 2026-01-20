@@ -1,4 +1,4 @@
 # leoblog
-Leo Personal Blog
+LeoChen's Personal Blog
 
 Building with Claude Code
